@@ -13,7 +13,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.4",
-        "majidse/zendesk_api_client_php": "2.2.9"
+        "majidse/zendesk_api_client_php": ">=2.2.9"
     },
     "extra": {
         "laravel": {
