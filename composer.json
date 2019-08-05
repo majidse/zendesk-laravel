@@ -10,16 +10,10 @@
             "email": "info@workwithhuddle.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/majidse/zendesk_api_client_php"
-        }
-    ],
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "~5.4",
-        "majidse/zendesk_api_client_php": "dev-master"
+        "majidse/zendesk_api_client_php": "2.2.9"
     },
     "extra": {
         "laravel": {
